@@ -1,0 +1,25 @@
+.latest-match-cards-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.latest-match-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.latest-match-card {
+  width: 90%;
+  padding: 10px;
+  background-color: #0f172a;
+  background-size: cover;
+}
+.latest-match-logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.latest-match-details-container {
+  display: flex;
+  flex-direction: column;
+}
